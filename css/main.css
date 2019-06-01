@@ -1,0 +1,16 @@
+#show{
+    display: none;
+}
+#dance{
+    display: none;
+}
+.page-nav{
+    background-color: rebeccapurple;
+}
+.page-card{
+    background-color: rebeccapurple;
+}
+.page-footer{
+    background-color: rebeccapurple;
+    grid-area: footer;
+}
